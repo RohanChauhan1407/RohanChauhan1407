@@ -41,10 +41,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanchauhan&show_icons=true&theme=github_dark" alt="Rohan Chauhan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanchauhan1407&show_icons=true&theme=github_dark" alt="Rohan Chauhan's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanchauhan&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanchauhan1407&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
