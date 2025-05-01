@@ -51,8 +51,8 @@
 
 ### 📫 Connect with Me
 
-- LinkedIn: [@rohanchauhan](https://linkedin.com/in/rohanchauhan)
-- Email: rohanchauhan@example.com
+- LinkedIn: [@rohanchauhan](https://www.linkedin.com/in/rohan-chauhan-dev)
+- Email: chauhan.rohan1307@gmail.com
 
 ---
 
