@@ -11,7 +11,6 @@
 
 - 🌱 Currently learning **advanced JavaScript, React, and Python scripting**
 - 👨‍💻 All of my projects are available on my [GitHub profile](https://github.com/rohanchauhan1407)
-- ✍️ Shared mini-projects in my [#EveryTuesdaySeries](https://www.linkedin.com/in/rohan-chauhan-dev) on LinkedIn
 - 💬 Ask me about **web development, dashboarding, or data visualization**
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful, and intuitive interfaces
 
